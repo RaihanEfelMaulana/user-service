@@ -1,0 +1,6 @@
+com\raihanefelmaulana\userservice\dto\User.class
+com\raihanefelmaulana\userservice\repository\UserRepository.class
+com\raihanefelmaulana\userservice\controller\userController.class
+com\raihanefelmaulana\userservice\UserServiceApplication.class
+com\raihanefelmaulana\userservice\service\UserServiceImpl.class
+com\raihanefelmaulana\userservice\service\UserService.class
